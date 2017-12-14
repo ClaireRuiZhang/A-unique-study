@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+
+ <head>
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="renderer" content="webkit">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>一个超凡绝伦的实验 — 实验介绍</title>
+  </head>
+
+ <body>
+   <div>
+      <header>
+         <div>
+             <a href="circle" class="logo" title="home">
+                <svg viewBox="0 0 100 80" width="30" class="drawsvg drawsvg-
+                initialized " style="">
+                   <g stroke="#000" stroke-width="4" fill="none">
+                     <path d="M2 0 V50" style="stroke-dasharray: 50, 50; stroke-
+                     dashoffset: 0;"></path>
+                     <path d="M0 83 L49.5 39 L98 78 V0" style="stroke-dasharray:
+                     206.464, 206.464; stroke-dashoffset: 0;"></path>
+                   </g>
+                 </svg>
+             </a>
+             <nav class="fw-nav">
+                 <a href="javascript:;" class="menu"></a>
+                 <ul class="ul">
+                   <li>
+                     <a href="http://psych.bnu.edu.cn/">
+                       <span>北京师范大学心理学部</span>
+                     </a>
+                   </li>
+                   <li>
+                     <a href="/design">
+                       <span>再设计</span>
+                     </a>
+                   </li>
+                   <li>
+                     <a href="/blog">
+                       <span>博客</span>
+                     </a>
+                   </li>
+                     <li>
+                       <a href="/resource/url">
+                         <span>资源</span>
+                       </a>
+                     </li>
+                     <li>
+                       <a href="/about">
+                         <span>关于</span>
+                       </a></li> </ul>
+             </nav>
+         </div>
+      </header>
+      <main>
+          <section class="摘要" style="height: 769px;">
+            <div>
+              "这里我们写摘要吧！"
+            </div>
+          </section>
+          <section class="前言">
+            <h2>前言</h2>
+            <div class="前言文本">
+              <p>
+                "这里就写我们的前言，复制过来就行"
+              </p>
+            </div>
+            <div class="加个链接吗，随便先备用">
+              <a href="/about" class="details">了解更多</a>
+            </div>
+          </section>
+          <section class="实验流程">
+            <h2>
+              "实验流程"
+              <small>是什么</small>
+            </h2>
+            <ul class="ul">
+              <li>
+                <!--<img src=".jpg" alt="BEISHI">-->
+                <h3>被&nbsp;&nbsp;试</h3>
+                <small>beishi</small>
+                <p>这里粘贴被试的信息</p>
+              </li>
+              <li>
+                <!--<img src=".jpg" alt="BEISHI">-->
+                <h3>仪&nbsp;&nbsp;器</h3>
+                <small>yiqi</small>
+                <p>这里粘贴仪器的信息</p>
+              </li>
+              <li>
+                <!--<img src=".jpg" alt="BEISHI">-->
+                <h3>流&nbsp;&nbsp;程</h3>
+                <small>liucheng</small>
+                <p>这里粘贴流程的信息</p>
+              </li>
+            </ul>
+
+          </section>
+          <section class="结论">
+            <div>
+                 <!--如果我们要做得更复杂，这部分不止一个网页，可以启动下面的链接-->
+              <a href="/taolundyemian" class="taolun">
+                <div>
+                <h2>讨论</h2>
+                </div>
+                <p>这里粘贴讨论信息。</p>
+                 <!--如果加了链接那-->
+              </a>
+                 <!--同理，可以启动下面的链接-->
+              <a href="/jielundyemian" class="jielun">
+                <div>
+                <h2>结论</h2>
+                </div>
+                <p>这里粘贴结论信息。</p>
+                 <!--如果加了链接那-->
+              </a>
+            </div>
+           </section>
+          <section class="装饰品">
+            <div class="装饰品 线1">
+            </div>
+            <div class="装饰品 线2">
+            </div>
+            <div class="装饰品 线3">
+            </div>
+          </section>
+      </main>
+   </div>
+
+    <footer>
+       <a href="javascript:;" id="totop">
+          <span>回到顶部</span>
+        </a>
+       <ul class="u1 contact">
+             <!--就是拿他举个例子，先试试看能不能成功而已-->
+          <li>
+                  <a href="https://xueshu.glgoo.net/"
+                   class="tooltip"data-tooltip="Glgoo学术搜索"target="_blank"rel="nofollow">
+                   <!--<img src="pic1.jpg" style="width: 26px;">-->
+                   <img src="pic1.jpg" />
+                  </a>
+          </li>
+
+       </ul>
+       <div class="aperture">
+            <div id="circle3" style="transform: translateX(-0.23px) translateY(-0.61px)
+            scale(1.00165) rotate(0deg); opacity: 0.917546;"></div>
+            <div id="circle4" style="transform: translateX(-0.46px) translateY(-1.22px)
+            scale(1.00165) rotate(0deg); opacity: 0.917546;"></div>
+       </div>
+    </footer>
+    <script src="/asset/js/app/stats.js?r=%2F&amp;m=1&amp;u=year&amp;d=2017-12-03"></script>
+    <script>
+   var _hmt = _hmt || [];
+   (function() {
+     var hm = document.createElement("script");
+     hm.src = "https://hm.baidu.com/hm.js?5fefcfac744a965368d0982aeeaccf89";
+     var s = document.getElementsByTagName("script")[0];
+     s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+  </body>
+
+</html>
